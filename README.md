@@ -1,2 +1,3 @@
 # hello-world
 ANLY 502
+Hey there! My name is Kerem Kuroglu, and I am originally from Istanbul, Turkey. I am a structural engineer by practice, but completed my Masters in Project Management at Northwestern University. My interest in data analysis is spurred by the building/ construction industry's shift towards creating leaner processes, and tracking production utilizing production planning tools. In my free time, I love to chase music festivals with my friends, read, and continuously learn; in whichever shape or form. I look forward to my time at Harrisburg and to say that I have been enjoying it thus far, would be an understatement.
